@@ -17,7 +17,7 @@ document.head.appendChild(svelte_compiled_stylesheet);
 </script>
 
 <?php
-echo "Olá, Mundo!";
+echo "Olá, Pamonha!";
 ?>
 
 <div id="svelte-app"></div>
